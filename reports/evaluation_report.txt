@@ -1,0 +1,36 @@
+MODEL EVALUATION REPORT - SVM
+======================================================================
+
+METRICS SUMMARY
+----------------------------------------------------------------------
+Accuracy: 0.7822
+Weighted Precision: 0.8078
+Weighted Recall: 0.7822
+Weighted F1: 0.7803
+Brier Score: 0.1097
+
+PER-CLASS METRICS
+----------------------------------------------------------------------
+
+LOW:
+  Precision: 0.9375
+  Recall: 0.6000
+  F1-Score: 0.7317
+  Support: 25
+  Brier Score: 0.0906
+
+OPTIMAL:
+  Precision: 0.8571
+  Recall: 0.7742
+  F1-Score: 0.8136
+  Support: 31
+  Brier Score: 0.0805
+
+HIGH:
+  Precision: 0.7018
+  Recall: 0.8889
+  F1-Score: 0.7843
+  Support: 45
+  Brier Score: 0.1580
+
+
