@@ -1,0 +1,44 @@
+======================================================================
+IVF PATIENT DATA PREPROCESSING REPORT
+======================================================================
+
+INITIAL DATA VALIDATION
+----------------------------------------------------------------------
+Total Records: 501
+Total Features: 9
+Duplicate Records: 0
+
+Missing Values Summary:
+  Age: 6 (1.2%)
+  AMH: 54 (10.8%)
+  n_Follicles: 33 (6.6%)
+  E2_day5: 34 (6.8%)
+  AFC: 239 (47.7%)
+
+OUTLIER DETECTION
+----------------------------------------------------------------------
+Age:
+  Bounds: [17.50, 45.50]
+  Outliers: 0 (0.0%)
+
+AMH:
+  Bounds: [-1.86, 6.22]
+  Outliers: 1 (0.2%)
+
+n_Follicles:
+  Bounds: [-14.50, 45.50]
+  Outliers: 1 (0.2%)
+
+E2_day5:
+  Bounds: [-167.66, 1799.86]
+  Outliers: 83 (16.6%)
+
+AFC:
+  Bounds: [12.00, 12.00]
+  Outliers: 247 (49.3%)
+
+FINAL DATA VALIDATION
+----------------------------------------------------------------------
+Total Records: 501
+Total Features: 16
+Duplicates Removed: 0

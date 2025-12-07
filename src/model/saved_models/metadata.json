@@ -1,0 +1,21 @@
+{
+  "best_model": "SVM",
+  "feature_names": [
+    "cycle_number",
+    "Age",
+    "AMH",
+    "n_Follicles",
+    "E2_day5",
+    "AFC",
+    "AMH_Age_ratio",
+    "AFC_Follicles_ratio",
+    "E2_per_follicle",
+    "Protocol_encoded"
+  ],
+  "class_names": [
+    "low",
+    "optimal",
+    "high"
+  ],
+  "random_state": 42
+}

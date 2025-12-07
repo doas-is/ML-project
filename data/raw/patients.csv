@@ -1,0 +1,501 @@
+patient_id,cycle_number,Age,Protocol,AMH,n_Follicles,E2_day5,AFC,Patient Response
+Carla F,1,37,flexible antagonist,1.87,16,930.13,,high
+Farah Y,2,24,fix antag,1.18,5,1974.21,,low
+Ebtisam A,1,32,fix antag,1.35,5,846.31,,low
+Hend I,1,24,flex anta,1.81,18,351.81,17,optimal
+Samira K,2,24,flex anta,1.04,9,606.7,8,low
+Hind O,1,42,fixed anta,4.36,24,3971,9,optimal
+Lilia S,3,30,agonist,5.31,30,3638,,high
+Nawal F,3,36,flexible antagonist,2.73,26,541.02,,optimal
+Maysa D,1,29,flex antag,5.62,,689.82,17,high
+Layal N,1,24,agoni,1.31,10,637.03,4,low
+Amal S,3,26,flex anta,1.53,7,908.71,6,low
+Ilhem K,1,37,agoni,2.74,17,584.49,9,optimal
+Batoul K,2,30,fixed antagonist,1.73,16,394.12,20,high
+Nisrine C,2,29,flexible antagonist,1.61,18,701.07,,optimal
+Samar N,1,29,flexible antagonist,2.38,15,543.59,,optimal
+Sirine D,1,34,flexible antagonist,2.82,33,487.18,,high
+Naima R,3,37,flex antag,0.76,9,522.01,,optimal
+Kenza B,2,36,fixed anta,1.02,2,480.2,8,low
+Anissa O,1,27,flexible antagonist,0.63,8,1084.54,13,optimal
+Afaf S,1,35,fixed anta,2.63,16,306.63,,optimal
+Latifa S,1,29,flex anta,2.55,17,808.27,,optimal
+Selma K,1,31,flexible antagonist,,8,338.94,14,optimal
+Souad F,2,25,flex antag,2.11,16,923.42,9,optimal
+Ranya N,1,34,flex anta,2.71,24,673.88,16,optimal
+Kenza R,1,30,flex anta,1.06,,64.47,5,low
+Tamara E,2,40,flex anta,0.18,4,250.4,6,low
+Nour G,2,30,fixed anta,3.82,26,,22,high
+Shahd B,1,26,flex antag,2.2,14,876.28,,optimal
+Leen E,1,30,agoni,2.76,17,195.74,15,optimal
+Doha G,3,24,flexible antagonist,4.86,36,923.5,,high
+Hend I,1,36,fixed anta,2.86,,1246.56,25,high
+Ranya N,2,28,flexible antagonist,1.06,12,557.23,,low
+Malek D,1,29,agonist,1.57,7,845.95,10,optimal
+Joanna E,2,32,fix antag,1.4,8,242.95,,low
+Farah B,1,39,fixed antagonist,6.04,41,563.64,16,high
+Rita G,2,31,agonist,4,24,1230.57,21,high
+Nesrine D,1,35,fixed anta,3.9,29,579.55,,high
+Mariam B,1,31,agoni,,13,,12,optimal
+Rowaida F,1,27,flex antag,1.13,,4992,13,optimal
+Malak I,2,42,agoni,0.43,6,,8,low
+Afaf O,1,30,flexible antagonist,3.23,22,687.52,16,optimal
+Lamia B,1,,agoni,3.04,11,573.81,16,optimal
+Leen N,1,30,flex antag,4.82,34,549.64,,high
+Malak O,1,30,flexible antagonist,,16,273.05,16,optimal
+Hasna Y,1,37,fixed anta,0.8,5,1491.08,,low
+Leila E,3,37,flexible antagonist,3.36,22,1344.88,,optimal
+Iram B,2,36,agonist,0.76,11,608.8,,low
+Amina C,2,34,flex anta,2.64,18,557.28,11,optimal
+Hasna F,2,40,fixed antagonist,0.17,2,910.33,5,low
+Nawal K,3,30,agoni,3.05,15,,13,optimal
+Jana B,1,25,fixed anta,4.83,25,818.46,12,optimal
+Maha Y,2,24,agonist,4.55,19,802.21,,optimal
+Rehab F,2,34,flex antag,0.68,4,488.99,,low
+Houda S,1,31,agonist,3.39,22,352.23,13,optimal
+Salsabil D,2,34,fixed anta,0.87,10,1899.08,15,optimal
+Meriem O,1,37,agonist,4.66,30,915.6,,high
+Imane G,1,32,flex anta,2.71,,277.88,,optimal
+Houda E,2,24,agoni,1.95,10,815.45,,optimal
+Sara E,1,30,flexible antagonist,,21,3464,22,high
+Nada A,1,27,agoni,5.4,34,809.69,,high
+Leila Y,1,28,flex anta,2.15,17,,,low
+Eya Y,1,34,flex anta,1.38,,2576,,optimal
+Ghada F,1,27,fixed antagonist,2.55,20,573.71,12,optimal
+Amina Y,1,40,flex anta,1.73,14,3206,,high
+Elham C,2,31,agoni,4.05,38,349.76,22,high
+Feryal H,1,36,flex anta,1.52,14,82.28,17,high
+Layal A,1,40,flexible antagonist,0.78,6,702.19,6,low
+Joelle E,1,30,flexible antagonist,2.9,24,528.61,,low
+Salma E,2,32,flexible antagonist,3.64,26,346.42,27,high
+Mariem C,1,27,fixed antagonist,,18,610.68,16,optimal
+Souad A,1,34,flexible antagonist,3.07,,735.51,,optimal
+Ines C,1,32,fixed antagonist,0.66,,3730,4,low
+Jessy N,1,33,fixed antagonist,4.59,30,272.13,26,high
+Skye A,2,27,flex anta,1.28,13,939.02,9,optimal
+Carla N,1,28,fixed antagonist,1.42,4,404.44,,low
+Celia N,1,29,agonist,0.86,7,600.79,7,low
+Sofia G,1,34,flex anta,0.23,,383.58,,low
+Layal O,1,29,fixed anta,3.11,21,1155.27,13,optimal
+Rabab G,3,40,fixed anta,,30,648.94,19,high
+Ebtisam K,1,33,flexible antagonist,0.73,,4517,,low
+Latifa I,1,42,flex anta,0.1,1,1316.63,,low
+Dina B,1,27,flexible antagonist,3.32,24,1123.91,,optimal
+Nada N,1,34,fix antag,4.42,40,515.34,,high
+Rola C,2,41,agoni,3.18,,315.95,16,high
+Haifa F,1,30,flex antag,1.39,9,757.93,,low
+Soumaya Y,2,24,flex anta,3.17,15,854.54,16,optimal
+Ines A,1,32,fixed anta,0.49,6,966.36,,low
+Nawal H,1,33,flexible antagonist,,13,1241.21,,optimal
+Majida D,1,26,fixed anta,2.44,14,328.32,,optimal
+Asma D,1,36,flex antag,,5,706.39,,optimal
+Amina G,2,41,flexible antagonist,2.18,14,4802,16,optimal
+Majida Y,2,28,flexible antagonist,1.32,9,577.5,17,optimal
+Afaf I,1,28,fix antag,0.76,9,817.02,,low
+Basma Y,1,33,flex anta,,23,597.02,18,high
+Malak H,2,27,agonist,1.04,5,1035.54,6,low
+Zahra N,2,28,flexible antagonist,3.89,18,456.07,9,optimal
+Nesrine I,2,28,flexible antagonist,,11,489.14,,low
+Rita R,1,37,fix antag,0.43,9,804.33,10,optimal
+Nadine C,1,,flexible antagonist,1.08,11,3679,4,low
+Imane A,1,29,fixed anta,4.35,32,734.85,,high
+Rania K,1,24,fixed anta,0.84,2,840.01,4,low
+Aline H,1,43,fix antag,1.18,9,1432.52,13,high
+Joanna A,1,32,flex antag,,28,656.66,,optimal
+Hend C,1,30,agonist,5.4,30,509.84,,low
+Joelle B,3,39,agonist,0.69,7,3000,,low
+Sahar N,2,33,flex antag,3.42,25,689.37,,optimal
+Houda C,1,33,fix antag,0.92,1,912.31,5,low
+Noura O,1,27,flexible antagonist,1.78,7,4348,,optimal
+Meriem Y,1,36,flex antag,4.94,32,1113.54,,optimal
+Noura I,1,25,flex antag,,13,451.72,,optimal
+Nour C,3,34,flex anta,0.42,1,804.78,4,low
+Mariem G,1,29,flex anta,1.24,,468.9,13,optimal
+Souad S,2,28,agonist,3.39,23,627.58,19,high
+Aroua B,1,37,fixed anta,0.88,4,2911,,low
+Noura R,2,31,flexible antagonist,3.64,27,29.16,,high
+Nour B,1,34,flex antag,1.71,12,693.88,12,optimal
+Rabab S,2,29,fix antag,3.93,34,808.12,28,high
+Amina S,3,33,agoni,0.97,6,312.62,3,low
+Lamia H,1,41,flex antag,0.63,2,984.28,,low
+Batoul C,1,35,flex antag,0.84,4,383.95,6,low
+Layal C,3,26,fix antag,0.93,,627.54,3,low
+Meriem D,1,39,flex antag,0.1,1,643.06,4,low
+Wafa Y,3,39,fixed antagonist,0.47,3,406.1,,low
+Ranya H,2,30,fix antag,4.76,38,680.81,24,low
+Hend R,1,24,fix antag,2.05,12,886.56,,optimal
+Rima C,1,32,flex anta,3.55,18,71.44,,optimal
+Yasmin O,3,32,fixed antagonist,,1,432.85,,low
+Hend B,1,25,agoni,,7,3935,11,optimal
+Soumaya G,1,33,flex antag,3.19,25,863.69,,optimal
+Fadia G,1,28,flexible antagonist,1.41,3,875.85,8,optimal
+Malak N,1,37,fix antag,2.22,13,666.1,8,optimal
+Rafa B,1,31,fixed antagonist,2.26,17,620.79,13,optimal
+Bushra A,1,37,fixed anta,4.75,31,405.99,18,high
+Sabah D,3,36,agonist,2.3,,1020.31,13,optimal
+Hiba D,1,26,flexible antagonist,2.39,14,575.4,,optimal
+Sahar K,2,38,flex anta,,13,767.67,12,high
+Najwa G,1,35,flexible antagonist,3.27,19,4766,16,optimal
+Elham E,1,37,flex anta,1.81,14,991.81,14,optimal
+Salsabil H,2,38,agonist,,20,730.31,,optimal
+Imen I,1,29,agonist,1.06,10,787.56,3,low
+Rabab H,1,26,agonist,3.39,23,845,12,optimal
+Chiraz C,2,33,flex antag,,20,473.91,,optimal
+Iram H,1,30,flexible antagonist,3.07,18,,15,optimal
+Rihab G,3,28,agoni,2.91,20,558.26,,optimal
+Rehab Y,1,35,fixed anta,3.99,21,662.54,17,high
+Nahla O,1,35,flex anta,2.84,26,860.89,,high
+Yasmin O,1,31,fixed antagonist,2.08,8,554.65,,optimal
+Souad S,1,34,flexible antagonist,3.16,19,,,optimal
+Naima S,2,27,fix antag,2.78,23,446.99,,optimal
+Aroua O,3,35,flex antag,0.55,1,654.79,,low
+Rima F,2,37,flex antag,2.35,16,534.07,8,high
+Batoul A,1,41,agonist,0.62,1,,,low
+Joanna F,1,34,flexible antagonist,3.32,19,510.05,15,optimal
+Anissa B,2,26,fix antag,1.66,15,697.73,,optimal
+Celia C,1,35,agoni,1.39,7,433.29,,low
+Shereen H,1,31,flex antag,3.19,23,,17,high
+Rowaida D,2,34,fixed antagonist,0.43,3,1066.88,,low
+Mona C,1,37,agoni,5.08,34,852.61,,high
+Chiraz K,1,35,flex anta,3.77,29,887.49,,optimal
+Myriam B,1,38,fix antag,2.45,20,,,optimal
+Amani E,3,34,fixed antagonist,1.81,8,737.54,14,optimal
+Iram B,2,33,agonist,0.76,5,1026.51,,low
+Rym K,2,32,flexible antagonist,1.27,9,2858,4,low
+Nadia F,2,30,fixed anta,,9,3058,3,low
+Myriam H,1,29,flex anta,,1,1018.09,4,low
+Yasmin G,1,42,flex antag,2.33,15,476.32,,optimal
+Imane I,2,32,agoni,3.37,19,4124,10,optimal
+Leila S,1,34,agonist,0.55,12,253.04,6,low
+Jana H,2,33,fix antag,3.38,15,613.06,15,high
+Aroua I,1,37,agoni,1.15,1,1062.04,7,low
+Elham B,1,31,fix antag,2.1,14,747.45,8,optimal
+Malak I,2,27,agoni,5.01,36,456.5,,high
+Shimaa Y,1,33,flex antag,2.33,15,1456.97,9,optimal
+Majida H,1,24,agoni,4.56,35,429.01,,high
+Rola Y,2,27,flex anta,,5,764.81,,optimal
+Nahla I,1,32,fixed anta,,11,1122.68,,optimal
+Rafa S,1,32,flex antag,2.66,12,893.28,,optimal
+Rowaida F,2,37,flexible antagonist,2.2,8,533.34,,optimal
+Gabriella C,1,36,flex antag,2.5,19,487.93,,optimal
+Meriem Y,2,29,flex anta,0.9,9,637.69,,low
+Racha O,1,41,flex antag,4.65,35,4984,27,high
+Rehab K,1,29,fixed antagonist,4.39,33,612.75,14,high
+Aroua F,2,32,flexible antagonist,3.11,26,562.52,13,optimal
+Nisrine S,2,36,flexible antagonist,0.52,7,595.84,5,low
+Haifa B,2,28,agoni,1.98,25,384.03,,optimal
+Mirna B,2,36,agonist,2.16,13,982.04,17,optimal
+Aicha N,2,32,agoni,,3,4186,5,low
+Imane G,1,32,flex antag,4.02,27,652.67,19,high
+Rania N,1,34,flexible antagonist,0.84,11,2890,7,low
+Haifa B,2,31,fix antag,4.05,32,976.35,27,high
+Luna F,1,30,flex anta,1.04,3,939.86,,low
+Amina O,3,27,agoni,3.25,26,1593.49,13,optimal
+Maha B,2,35,agoni,3.47,23,,,optimal
+Nadia R,1,30,fix antag,1.6,8,4074,,optimal
+Samar F,1,31,flex antag,3,28,449.92,,high
+Fatma B,2,24,flex anta,5.13,26,958.21,10,optimal
+Lamia R,1,26,flex antag,0.36,5,,,low
+Ghada G,2,25,fixed anta,0.81,1,,,low
+Feryal F,1,33,flex antag,,10,3296,,optimal
+Reem K,1,26,fix antag,1.25,19,1023.1,15,optimal
+Maha N,2,29,fix antag,3.47,33,658.16,18,high
+Aicha Y,1,30,flex anta,3.5,27,1029.29,25,high
+Anissa G,2,32,flex antag,5.91,44,3465,,high
+Ikram G,1,35,agoni,2.35,24,4203,,optimal
+Houda I,2,33,flex antag,2.44,,1112.37,,optimal
+Maha I,2,34,fixed anta,2.8,19,,14,optimal
+Iram Y,1,33,flex antag,1.7,16,4126,,optimal
+Shimaa B,1,29,flex antag,5.83,34,,,high
+Khadija D,1,31,flex antag,5.88,44,646.42,29,high
+Salma Y,3,33,flex anta,1.24,7,692.68,,low
+Israa F,1,27,flexible antagonist,5.88,42,1147.98,25,high
+Hasna D,1,35,agoni,1.63,21,632.3,,optimal
+Nesrine I,1,36,flex anta,1.2,5,624.07,,low
+Salma E,2,35,agoni,0.98,4,1898.96,,low
+Nesrine H,1,40,agonist,3.14,18,340.82,13,optimal
+Lamia K,1,27,flex antag,1.33,7,731.9,,low
+Rita A,1,36,fixed antagonist,1.82,14,591.38,8,optimal
+Fatma F,1,33,fix antag,5.78,30,3945,,high
+Mounira N,1,33,fixed antagonist,0.73,1,566.9,,low
+Souad E,1,34,fixed anta,1.4,15,1085.12,15,optimal
+Lilia S,2,27,fixed anta,5.37,38,4174,26,high
+Wafa S,2,33,fix antag,2.61,23,3062,21,high
+Rehab N,1,28,flexible antagonist,3.69,23,267.11,13,optimal
+Batoul O,2,35,agonist,0.43,2,1465.17,,low
+Oumayma C,3,28,flex antag,2.59,14,3398,8,optimal
+Tamara A,1,28,agonist,2.9,21,632.77,16,optimal
+Najwa H,1,36,flex anta,2.36,11,491.46,,optimal
+Haifa G,1,36,fixed anta,1.11,9,916.4,,low
+Houda R,2,30,flex antag,4.25,33,1135.78,15,high
+Racha R,1,33,fix antag,3.18,13,4622,,low
+Zahra K,3,38,flex antag,2.25,14,1003.13,,optimal
+Basma Y,1,26,flex antag,,20,1195.83,16,optimal
+Bushra E,2,34,flex antag,3.19,25,1056.88,,optimal
+Ines G,1,37,fixed antagonist,,10,543.68,,optimal
+Karima B,3,25,agonist,1.27,9,2887,7,low
+Doha K,1,37,flex antag,,18,550.75,8,optimal
+Ikram K,1,24,fixed antagonist,3.96,29,410.98,,high
+Jessy D,1,40,flex anta,0.98,5,817.26,5,low
+Ikram R,2,24,fix antag,5.08,38,627.86,,high
+Iram E,2,29,flexible antagonist,2.16,15,3951,13,optimal
+Skye N,1,32,flex anta,1.27,6,4790,9,low
+Sawsan A,1,35,fixed anta,4,23,577.67,,high
+Belkis K,1,29,fix antag,0.92,7,,9,low
+Luna I,2,30,flex anta,0.7,6,924.31,,low
+Hajar D,3,40,fixed anta,0.92,4,666.5,,low
+Manel K,2,30,agonist,4.82,30,544.83,22,high
+Salsabil A,1,32,fixed antagonist,1.47,8,2099.53,3,low
+Eya S,1,33,flexible antagonist,2.78,15,687.05,15,optimal
+Basma E,1,24,agoni,5.43,40,808.95,28,high
+Reem F,1,24,agoni,5.87,37,533.56,,high
+Shahd A,1,29,fixed antagonist,,8,990.5,3,low
+Hend F,1,33,fix antag,4.47,28,583.01,,high
+Marwa R,1,40,fixed anta,0.81,11,1020.34,7,low
+Israa B,1,37,flexible antagonist,1.31,4,983.05,3,low
+Manel E,1,42,fix antag,0.92,12,566.93,4,low
+Reem B,1,28,flex antag,2.81,18,4430,18,high
+Batoul E,3,37,agoni,2.9,21,1084,14,optimal
+Sana F,1,24,fixed anta,4.1,32,3926,29,high
+Latifa K,1,34,flex anta,1.71,15,616.5,,optimal
+Wijdan Y,1,30,flex anta,1.05,7,3925,3,low
+Maryam N,1,33,fixed antagonist,,10,702.99,,optimal
+Salsabil Y,1,30,agonist,3.56,23,906.86,20,high
+Dounia A,1,35,flexible antagonist,3.09,19,1017.99,8,optimal
+Kenza B,1,26,flex anta,6.02,,870.99,25,high
+Sirine I,1,31,flex antag,3.76,26,1602.05,16,high
+Shimaa N,1,35,flex anta,1.07,2,556.6,6,low
+Nadia Y,2,38,agonist,3.98,27,289.17,,optimal
+Lobna D,2,24,flex anta,,6,3142,5,low
+Luna G,1,35,agoni,3.59,26,1021.89,,low
+Camellia G,3,31,flex anta,,21,756.84,10,optimal
+Wahida H,3,30,flexible antagonist,4.39,32,1072.61,,high
+Rabia N,3,26,fixed antagonist,,35,2893,,high
+Hend B,1,24,agonist,0.49,8,782.25,6,low
+Aya K,1,,flex anta,4.73,,317.82,16,high
+Soumaya G,2,34,flex antag,3.21,18,1048.03,,optimal
+Farah F,2,30,flex anta,,10,482.52,,high
+Elham D,1,34,flex antag,1.17,11,1990.83,4,low
+Myriam G,1,34,fixed anta,2.24,13,640.63,12,optimal
+Shereen G,1,28,flex antag,4.24,24,839.6,18,high
+Joanna Y,1,36,fixed anta,0.87,1,945.01,5,low
+Sara D,1,37,agoni,2.78,,,15,high
+Gabriella F,1,,agonist,,1,1238.96,4,low
+Celia B,2,26,agoni,2.18,10,782,16,optimal
+Rym N,2,38,flex anta,,14,,,optimal
+Wafa K,1,29,agoni,1.15,6,630.32,,low
+Majida H,1,34,flex anta,4.39,28,621.22,14,optimal
+Houda A,1,36,fixed anta,1.15,5,1252.35,,low
+Eya R,2,34,fixed anta,3.13,24,586.98,,optimal
+Dounia O,1,28,agonist,2.7,23,773.09,14,optimal
+Layal G,1,34,flex antag,3.23,24,735.44,,optimal
+Joanna B,1,27,flex anta,0.99,1,601.85,,low
+Celia C,1,31,agoni,1.44,19,3538,,optimal
+Bushra N,2,31,agonist,1.73,15,354.14,,optimal
+Rania R,3,33,flex anta,,6,884.74,8,optimal
+Lilia H,1,35,agonist,2.29,18,803,15,optimal
+Afaf F,2,27,fixed antagonist,,29,424.39,,high
+Nawal E,1,33,fix antag,3.03,24,1182.24,,optimal
+Carla G,2,34,flex antag,5.07,35,298.72,,high
+Shereen O,2,33,fixed antagonist,0.6,16,586.98,,optimal
+Aline D,1,39,flex anta,0.24,1,209.13,,low
+Batoul R,1,24,fixed antagonist,2.9,24,3942,12,optimal
+Mariam G,1,25,fixed anta,4.52,28,,,optimal
+Shahd O,1,29,fix antag,5.71,43,552.35,23,high
+Hasna R,1,27,flex anta,5.48,32,437.41,28,high
+Samar E,1,27,fix antag,0.89,,907.45,4,low
+Rafa E,1,34,agoni,0.69,1,4373,7,low
+Imane A,1,27,agonist,3.04,16,4031,,optimal
+Fadia A,1,31,agonist,2.84,19,479.33,,optimal
+Mounira D,2,32,fixed anta,2.88,17,516.86,11,high
+Asma D,1,31,fixed antagonist,2.6,22,341.3,26,high
+Dina F,1,29,agonist,2.42,21,907.89,,optimal
+Maysa F,1,25,fixed antagonist,3.11,22,922.56,,optimal
+Hiba H,3,40,agonist,3.16,22,501.08,,optimal
+Leen Y,2,30,fixed anta,1.45,,816.33,4,low
+Meriem N,1,33,flex anta,3.4,28,760.79,,optimal
+Mariem F,2,35,fix antag,2.75,,922.85,13,optimal
+Rania O,2,40,fixed anta,1.44,7,1040.32,,optimal
+Reem H,2,24,flex antag,0.95,8,600.78,,low
+Hanane S,1,33,agonist,1.58,,1068.98,,low
+Hind S,1,34,fixed anta,3.45,23,742.73,28,high
+Asma I,2,34,flexible antagonist,3.03,18,677.14,8,optimal
+Wafa Y,1,26,flexible antagonist,2.24,14,1160.55,,optimal
+Rima B,1,31,agoni,1.7,4,434.56,9,low
+Hasna A,1,27,flexible antagonist,0.95,6,593.34,10,optimal
+Skye F,1,31,fixed anta,3.8,30,406.83,,high
+Sabah F,1,26,agonist,3.04,24,1088.44,,optimal
+Israa C,3,39,fixed anta,0.3,,798.85,6,low
+Maha E,1,36,fixed antagonist,,7,640.15,5,low
+Imane S,3,36,fixed anta,2.68,19,1392.69,,optimal
+Mariam K,1,38,flexible antagonist,,,616.95,,optimal
+Kamilia H,1,31,flex antag,3.59,19,4083,10,optimal
+Lilia S,1,40,flex antag,0.86,14,927.32,6,low
+Yasmin O,1,41,flex anta,0.53,12,4421,5,low
+Belkis G,2,42,flex antag,0.53,2,471.86,7,low
+Racha D,1,28,agonist,,41,703.48,26,high
+Lamia D,2,35,agonist,0.32,2,,,low
+Camellia B,1,39,flex anta,3.71,,4732,,high
+Nour C,2,35,flex antag,2.76,21,2969,,high
+Majida N,2,28,fix antag,0.74,14,774.58,,optimal
+Wijdan S,1,30,flex antag,,5,489.21,,low
+Kenza N,3,37,agoni,2.23,16,813.93,15,optimal
+Reem B,1,31,flexible antagonist,1.37,2,,9,optimal
+Malak G,1,36,fixed antagonist,4.77,39,572.02,24,high
+Salsabil O,2,32,flex anta,2.28,19,3403,13,optimal
+Amira C,1,32,agonist,4.3,30,965.22,,high
+Lobna G,1,29,fixed antagonist,3.13,25,538.46,12,optimal
+Aya S,2,26,fixed antagonist,2.56,12,787.07,,optimal
+Sabah I,1,28,agonist,5.06,34,470.13,27,high
+Belkis F,3,37,flex antag,1.11,6,789.28,,low
+Selma A,1,24,agonist,3.04,27,844.91,17,optimal
+Karima F,3,24,flex anta,4.37,22,1148.86,,optimal
+Malek C,1,27,agonist,2.88,20,822.03,8,optimal
+Sawsan I,1,26,fixed anta,1.93,22,698.62,14,optimal
+Soumaya H,2,33,fix antag,1.38,13,975.92,10,optimal
+Nawal G,1,34,fixed anta,0.95,5,4791,,low
+Nisrine I,1,43,agonist,0.21,4,556.35,8,low
+Nawal I,2,26,fixed antagonist,2.7,17,698.68,15,optimal
+Celia I,1,30,agoni,4.95,36,605.12,,high
+Salsabil Y,2,25,flex anta,0.87,8,4998,9,low
+Aroua I,1,38,fixed anta,0.36,1,699.43,4,low
+Aline F,1,29,fixed antagonist,2.51,17,200.37,9,optimal
+Nadine I,2,31,agonist,0.42,10,663.13,5,low
+Elham N,2,30,flexible antagonist,0.78,6,1011.5,3,low
+Shimaa H,1,35,flex antag,3.91,27,1084.91,,high
+Houda F,1,29,flex antag,,10,768.87,13,optimal
+Najwa H,2,27,fixed antagonist,2.7,18,542.66,12,optimal
+Sara H,1,27,agoni,2.02,11,705.07,,optimal
+Wafa O,2,32,flexible antagonist,0.99,1,633.26,,low
+Nadia I,1,24,agoni,1.48,13,1168.27,17,optimal
+Nesrine F,1,33,fixed anta,2.53,17,308.97,,optimal
+Leila B,2,31,agoni,,3,526.18,9,low
+Kamilia N,1,31,flexible antagonist,0.8,5,,4,low
+Hind N,1,27,agonist,3.35,24,1061.32,,optimal
+Lobna C,3,25,flexible antagonist,4.24,34,577.06,,high
+Deema O,1,,fixed antagonist,1.14,4,204,6,low
+Nadia A,2,37,flex anta,0.1,4,,5,low
+Manel B,2,28,fixed anta,5.82,43,484.21,,high
+Khadija O,2,28,agoni,0.84,15,827.9,,low
+Latifa A,1,41,flex antag,,9,3824,9,low
+Souad A,2,25,fixed anta,,8,1005.64,5,low
+Maryam A,1,29,fixed antagonist,1.49,11,115.43,12,optimal
+Nermine D,1,31,flexible antagonist,1.29,11,1193.93,,low
+Dina S,1,29,flex anta,2.49,18,2958,12,optimal
+Hind E,1,35,agonist,2.26,13,326.82,,optimal
+Camellia Y,3,24,flexible antagonist,,8,3527,,low
+Dina C,3,30,fixed antagonist,1.48,18,819.32,,optimal
+Mona K,1,34,flex anta,2.4,27,1082.84,,optimal
+Karima A,3,28,fixed anta,0.82,7,555.99,3,low
+Miral A,1,30,fix antag,0.96,12,909.8,,high
+Mounira F,1,24,flexible antagonist,,8,,13,optimal
+Nermine E,1,36,flex antag,3.39,34,1043.16,,high
+Dounia B,1,35,flex antag,5.59,38,559.2,,high
+Shereen I,1,30,agoni,0.79,14,2979,,low
+Maha F,1,28,fixed antagonist,1.21,10,527.38,,optimal
+Khadija O,1,31,flexible antagonist,5.09,38,544.93,,high
+Chiraz C,1,29,flex anta,3.21,20,869.52,,optimal
+Amani Y,2,33,flexible antagonist,0.66,3,425.95,,low
+Oumayma I,1,31,flex anta,1.24,,2501,,low
+Salsabil A,1,28,fixed anta,2.55,,4857,,optimal
+Tamara D,1,36,fix antag,0.88,9,1015.11,9,low
+Ikram Y,1,41,flexible antagonist,0.45,4,1013.28,,high
+Reem I,1,37,fixed antagonist,5.74,41,268.15,25,high
+Shimaa G,1,24,agoni,6.53,39,918.73,24,high
+Racha O,2,32,fixed anta,0.75,5,556.57,,high
+Camellia N,1,32,flex anta,,3,1045.44,6,optimal
+Rehab F,1,35,flex antag,4.46,31,686,,high
+Khadija C,1,36,fix antag,2.52,17,867.02,,optimal
+Sabah O,2,31,agonist,0.95,11,3268,6,low
+Wijdan D,1,24,flex antag,3.14,22,626.58,,optimal
+Najwa N,1,36,fix antag,2.83,19,1202.22,13,optimal
+Dounia B,1,31,flexible antagonist,1.79,8,361.83,,optimal
+Hiba R,1,33,flex anta,3.15,22,605.52,12,optimal
+Nisrine K,3,43,fixed anta,0.1,2,3643,7,low
+Joelle N,1,31,flex anta,0.8,8,558.36,5,low
+Myriam H,1,35,flex antag,2.66,15,686.77,,optimal
+Sawsan I,1,24,fixed anta,2.38,22,1524.05,11,optimal
+Skye O,3,25,fixed antagonist,0.94,8,553.69,8,low
+Malak D,3,32,flex anta,0.96,2,1159.8,3,low
+Rafa G,2,34,fix antag,1.96,8,581.56,,optimal
+Marwa I,1,35,fixed antagonist,,13,1024.6,,optimal
+Sawsan S,1,34,flexible antagonist,1.36,19,,,high
+Manel N,2,32,flex anta,2.46,15,802.02,13,high
+Yasmin S,3,24,agoni,2.64,23,,12,optimal
+Hasna I,3,31,fixed anta,1.04,4,,,low
+Latifa S,1,42,flexible antagonist,0.1,3,346.36,4,low
+Tamara A,1,28,agonist,1.83,,4195,,optimal
+Rowaida I,1,31,flex antag,2.3,19,774.92,,optimal
+Rym S,1,45,agoni,1.39,14,580.29,14,optimal
+Rabia C,1,37,fixed antagonist,4.56,33,,,high
+Dina O,2,34,flex anta,2.92,,642.12,14,optimal
+Amal I,1,29,fixed antagonist,1.33,11,805.46,9,low
+Mariem K,1,30,fixed anta,0.5,5,241.46,8,low
+Sabah K,1,26,fixed anta,2.73,16,,12,optimal
+Anissa I,1,29,fixed anta,2.28,14,790.87,,optimal
+Ghada F,3,28,agonist,0.47,3,360.53,,low
+Soumaya A,1,32,fix antag,4.22,37,2559,22,high
+Amina O,1,24,fixed anta,4.73,,3394,25,high
+Soumaya F,3,28,fix antag,1.7,12,543.12,15,optimal
+Malak O,1,28,flex anta,0.21,5,373.69,8,optimal
+Amani R,1,28,agoni,2.93,11,947.92,,optimal
+Rihab N,1,33,agonist,2.18,24,1832.04,25,high
+Bushra K,1,27,fixed anta,1.4,10,871.61,3,optimal
+Sahar F,1,26,agoni,,39,472.97,24,high
+Marwa A,2,26,agoni,0.88,5,,5,low
+Deema I,1,30,flexible antagonist,1.07,7,2910,16,optimal
+Batoul O,1,26,agoni,,23,3924,,optimal
+Naima A,1,30,agoni,0.34,4,711.91,5,low
+Amal Y,1,,agonist,1.71,13,981.48,9,optimal
+Salma H,1,30,fix antag,2.6,24,601.54,,high
+Mirna I,1,32,fix antag,1.11,16,3398,,optimal
+Mariem R,2,24,agoni,0.56,11,570.16,5,low
+Asma N,2,34,fix antag,1.56,13,,8,low
+Sirine Y,1,27,fixed anta,4.49,31,3145,22,high
+Ebtisam E,1,33,flex antag,2.92,21,779.36,,high
+Wafa O,1,31,agonist,4.66,27,3796,,high
+Sofia G,2,28,flexible antagonist,6.16,46,4392,,high
+Yasmin F,1,33,flexible antagonist,0.8,4,465.03,7,low
+Mirna S,2,30,flexible antagonist,0.43,13,835.4,10,optimal
+Sana H,1,40,fixed anta,2.41,12,556.38,,optimal
+Mariam B,1,34,agonist,0.48,1,479.88,,high
+Houda G,1,26,fixed anta,3.04,20,2945,,optimal
+Rym B,1,32,agonist,3.56,24,3888,,optimal
+Nisrine A,1,32,fixed anta,1.49,12,775.43,9,optimal
+Eya G,1,31,flexible antagonist,,7,3778,,low
+Mariem E,1,30,flex antag,4.95,28,2010.06,,optimal
+Nesrine S,1,24,agonist,4.4,33,2954,,high
+Belkis S,3,36,flex anta,0.25,,524.65,,low
+Shimaa S,1,28,flexible antagonist,3.62,25,353.59,11,optimal
+Nisrine D,1,32,flex anta,1.23,9,461.14,,low
+Samar F,2,35,fix antag,4.19,,1618.04,,high
+Mirna O,1,34,flex anta,3.03,33,571.93,,high
+Noura Y,2,37,flex antag,3.28,25,,15,optimal
+Leen Y,1,34,flex antag,4.32,34,805.4,,high
+Zahra N,1,31,fix antag,1.17,8,1013.06,,low
+Maha C,1,35,agoni,3.49,20,846.42,15,optimal
+Kamilia N,1,36,flexible antagonist,4.18,31,585.02,21,high
+Elissa B,2,40,agoni,0.79,3,3651,3,optimal
+Sana E,1,33,agonist,,22,752.86,,optimal
+Samar G,1,24,fixed anta,,18,811.84,16,optimal
+Elham D,1,27,flex anta,3.34,24,502.84,17,optimal
+Manel R,1,24,flex anta,0.54,7,3897,,low
+Carla O,1,35,agonist,3.03,16,783.45,,optimal
+Mirna E,2,34,fix antag,3.47,20,,,optimal
+Aline C,1,41,fix antag,1.06,1,689.37,11,high
+Carla H,1,39,agoni,0.81,9,4213,,low
+Oumayma O,1,35,flex anta,3.16,20,1009.5,,high
+Ranya E,1,33,fix antag,3.22,19,836.91,,optimal
+Rima O,2,31,agonist,0.27,6,525.91,3,low
+Elissa G,1,41,flex anta,0.1,7,525.32,9,low
+Aroua H,1,31,flexible antagonist,0.69,1,1079.56,3,low
+Rabab E,1,26,flex antag,4.1,36,1171.6,,high
+Elham O,1,36,fixed anta,3.5,22,982.4,14,high
+Lilia C,1,24,fixed antagonist,1.63,13,795.57,8,low
+Soumaya B,2,26,flex anta,2.22,21,683.31,16,optimal
+Ikram R,1,41,agonist,0.49,9,418.27,,optimal
+Bushra N,1,26,flexible antagonist,,,2907,24,high
+Majida Y,1,31,agoni,2.79,23,,,optimal
+Batoul B,1,35,flex anta,2.77,16,690.96,9,optimal
+Deema K,1,29,agonist,0.78,7,2822,,optimal
+Rihab B,2,28,fix antag,2.93,23,623.42,,optimal

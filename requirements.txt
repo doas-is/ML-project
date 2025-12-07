@@ -1,0 +1,25 @@
+PyMuPDF
+
+# Data Manipulation
+pandas
+numpy
+
+# Testing
+pytest # Unit testing framework
+pytest-cov # Code coverage reporting
+
+# Logging and Utilities
+python-dateutil 
+scikit-optimize
+
+# For testing
+pytest
+pytest-cov
+
+# For FastAPI
+fastapi
+uvicorn
+pydantic
+
+shap
+lime
